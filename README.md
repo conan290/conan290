@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 💬 Ask me about manual testing, API testing, Selenium WebDriver automation, or anything related to quality assurance!
 📫 How to reach me: [Your email] or via GitHub messages.
 😄 Pronouns: he/him.
-⚡ Fun fact: I love problem-solving and enjoy finding creative ways to break software—that’s where the real fun begins!
 -->
